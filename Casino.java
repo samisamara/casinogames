@@ -1,4 +1,4 @@
-package casino;
+package casino.casinogames;
 
 import java.util.Random;
 import java.util.Scanner;
